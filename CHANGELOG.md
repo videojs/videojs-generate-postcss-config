@@ -1,3 +1,14 @@
+<a name="2.1.1"></a>
+## [2.1.1](https://github.com/videojs/videojs-generate-postcss-config/compare/v2.1.0...v2.1.1) (2020-01-28)
+
+### Bug Fixes
+
+* **security:** fix security issues by updating package-lock.json ([6e0b769](https://github.com/videojs/videojs-generate-postcss-config/commit/6e0b769))
+
+### Chores
+
+* **package:** Update dependencies ([#2](https://github.com/videojs/videojs-generate-postcss-config/issues/2)) ([6c3fa05](https://github.com/videojs/videojs-generate-postcss-config/commit/6c3fa05))
+
 <a name="2.1.0"></a>
 # [2.1.0](https://github.com/videojs/videojs-generate-postcss-config/compare/v2.0.1...v2.1.0) (2019-01-14)
 
