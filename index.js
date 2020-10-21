@@ -17,7 +17,7 @@ const getSettings = function(options) {
     require('postcss-import')(),
 
     // allow nested rules
-    require('postcss-nesting')(),
+    require('postcss-nested')(),
 
     // allow custom properties, aka variables
     require('postcss-custom-properties')({preserve: false}),
