@@ -1,3 +1,10 @@
+<a name="2.2.0"></a>
+# [2.2.0](https://github.com/videojs/videojs-generate-postcss-config/compare/v2.1.1...v2.2.0) (2020-10-22)
+
+### Bug Fixes
+
+* Replacing postcss-nesting with postcss-nested plugin ([#4](https://github.com/videojs/videojs-generate-postcss-config/issues/4)) ([249575f](https://github.com/videojs/videojs-generate-postcss-config/commit/249575f))
+
 <a name="2.1.1"></a>
 ## [2.1.1](https://github.com/videojs/videojs-generate-postcss-config/compare/v2.1.0...v2.1.1) (2020-01-28)
 
