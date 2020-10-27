@@ -29,7 +29,7 @@ Maintenance Status: Stable
 ## Installation
 
 ```
-$ npm install --save-dev postcss-cli videojs-generate-postcss-config
+$ npm install --save-dev postcss postcss-cli videojs-generate-postcss-config
 ```
 
 Then in your postcss config do
