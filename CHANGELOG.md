@@ -1,3 +1,15 @@
+<a name="3.0.0"></a>
+# [3.0.0](https://github.com/videojs/videojs-generate-postcss-config/compare/v2.2.0...v3.0.0) (2020-10-27)
+
+### Chores
+
+* update deps to support postcss 8 ([#5](https://github.com/videojs/videojs-generate-postcss-config/issues/5)) ([d0cf770](https://github.com/videojs/videojs-generate-postcss-config/commit/d0cf770))
+
+
+### BREAKING CHANGES
+
+* only support postcss 8 now
+
 <a name="2.2.0"></a>
 # [2.2.0](https://github.com/videojs/videojs-generate-postcss-config/compare/v2.1.1...v2.2.0) (2020-10-22)
 
