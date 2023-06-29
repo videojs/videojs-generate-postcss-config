@@ -35,24 +35,24 @@
   },
   "homepage": "https://github.com/videojs/videojs-generate-postcss-config",
   "peerDependencies": {
-    "postcss": "^8.0.0",
-    "postcss-cli": "^8.0.0"
+    "postcss": "^8.4.24",
+    "postcss-cli": "^8.3.1"
   },
   "dependencies": {
-    "autoprefixer": "^10.0.1",
-    "postcss-banner": "^3.0.1",
+    "autoprefixer": "^10.4.14",
+    "postcss-banner": "^3.0.2",
     "postcss-calc": "^7.0.5",
-    "postcss-csso": "^5.0.0",
+    "postcss-csso": "^5.0.1",
     "postcss-custom-properties": "^10.0.0",
     "postcss-import": "^13.0.0",
-    "postcss-nested": "^5.0.1",
-    "postcss-nesting": "^7.0.0",
+    "postcss-nested": "^5.0.6",
+    "postcss-nesting": "^7.0.1",
     "postcss-progress": "^2.0.0"
   },
   "devDependencies": {
-    "@videojs/generator-helpers": "^1.1.0",
+    "@videojs/generator-helpers": "^1.2.0",
     "videojs-generator-verify": "~1.2.0",
-    "videojs-standard": "^8.0.4"
+    "videojs-standard": "^8.0.6"
   },
   "husky": {
     "hooks": {
