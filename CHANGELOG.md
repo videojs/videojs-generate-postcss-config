@@ -1,3 +1,14 @@
+<a name="3.0.1"></a>
+## [3.0.1](https://github.com/videojs/videojs-generate-postcss-config/compare/v3.0.0...v3.0.1) (2023-11-03)
+
+### Bug Fixes
+
+* Don't use banner option as browserslist arg ([#10](https://github.com/videojs/videojs-generate-postcss-config/issues/10)) ([f7f6094](https://github.com/videojs/videojs-generate-postcss-config/commit/f7f6094))
+
+### Chores
+
+* **package:** update dependencies ([#9](https://github.com/videojs/videojs-generate-postcss-config/issues/9)) ([e64e549](https://github.com/videojs/videojs-generate-postcss-config/commit/e64e549))
+
 <a name="3.0.0"></a>
 # [3.0.0](https://github.com/videojs/videojs-generate-postcss-config/compare/v2.2.0...v3.0.0) (2020-10-27)
 
