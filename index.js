@@ -6,7 +6,7 @@ const getSettings = function(options) {
 
   const settings = {
     banner: options.banner || `@name ${pkg.name} @version ${pkg.version} @license ${pkg.license}`,
-    browserslist: options.banner || pkg.browserslist || ['defaults', 'ie 11']
+    browserslist: options.browserslist || pkg.browserslist || ['defaults', 'ie 11']
   };
 
   settings.plugins = [
